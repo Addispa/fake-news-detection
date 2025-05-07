@@ -1,0 +1,13 @@
+# core packages
+nltk
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+spacy
+opendatasets
+kagglehub
+# Jupyter packages
+notebook
+nbconvert
